@@ -1,0 +1,8 @@
+name: mlva_env
+channels:
+ - bioconda
+ - conda-forge
+dependencies:
+ - pandas==3.0.6
+ - matplotlib==3.11.2
+ - seqkit==2.13.0
